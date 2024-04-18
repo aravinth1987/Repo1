@@ -6,7 +6,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class MainSteps {
+public class MainSteps1 {
 	@Given("User is on NetBanking landing page")
 	public void user_is_on_net_banking_landing_page() {
 	    // Write code here that turns the phrase above into concrete actions
