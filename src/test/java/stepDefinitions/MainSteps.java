@@ -11,6 +11,10 @@ public class MainSteps {
 	public void user_is_on_net_banking_landing_page() {
 	    // Write code here that turns the phrase above into concrete actions
 	    System.out.println("User is on NetBanking landing page");
+	    
+	    System.out.println("Change 1 - IST user");
+	    
+	    System.out.println("Change 2 - EST user");
 	}
 	
 //	@When("user login to application with {string} and {string}")
