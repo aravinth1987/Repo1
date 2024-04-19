@@ -15,6 +15,8 @@ public class MainSteps1 {
 	    System.out.println("Change 1 - IST user");
 	    
 	    System.out.println("Change 2 - EST user");
+	    
+	    System.out.println("Change 3 - IST user - Merge changes");
 	}
 	
 	public void new_test() {
